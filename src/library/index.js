@@ -1,0 +1,7 @@
+import './axios'
+import './veeValidate'
+import './element'
+import './i18n'
+import './lodash'
+import './moment'
+import './slimCroper'
